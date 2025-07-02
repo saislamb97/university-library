@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.log
+logs/
+*.sqlite3
+*.db
+instance/
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.venv/
+venv/
+myvenv/
+env/
+myenv/
+pip-log.txt
+pip-delete-this-directory.txt
+poetry.lock
+Pipfile
+Pipfile.lock
+
+
+# VSCode & JetBrains
+.vscode/
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Media, Static and Build Files
+media/
+videos/
+vid/
+static/
+build/
+dist/
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.flv
+*.wmv
+*.webm
+
+# Compiled files
+*.class
+*.o
+*.out
+*.obj
+*.a
+*.lib
+*.dll
+*.exe
+*.app
+*.dmg
+
+# Cache & Build
+.cache/
+coverage/
+*.coverage
+*.pycoverage
+.tox/
+.nox/
+*.egg
+*.egg-info/
+.eggs/
+
+# Testing
+pytest_cache/
+.coverage
+nosetests.xml
+coverage.xml
+*.mo
+*.pot
