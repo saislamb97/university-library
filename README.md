@@ -2,7 +2,7 @@
 
 A modern, scalable, and beautiful library management system for universities. Built with Django, Jazzmin, MySQL, and Tailwind CSS.
 
-![Library Dashboard Screenshot](assets/img/preview.png)
+![Library Dashboard Screenshot](assets/preview.png)
 
 ---
 
